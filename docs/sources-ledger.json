@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://theaacn.org/what-is-a-neuropsychological-evaluation",
+      "title": "What is a Neuropsychological Evaluation? — AACN",
+      "accessed": "2026-09-02",
+      "quotes": [
+        {
+          "text": "The neuropsychological evaluation is like putting puzzle pieces together.  The neuropsychologist puts the puzzle together to see what pieces fit or do not fit with different conditions that affect how the brain works.",
+          "added": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://theaacn.org/adult-neuropsychology",
+      "title": "Adult Neuropsychology — AACN",
+      "accessed": "2026-09-02",
+      "quotes": [
+        {
+          "text": "After the evaluation, the clinical neuropsychologist will analyze all of the data and information gathered by history and examination, integrating it into a comprehensive report.",
+          "added": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://theaacn.org/pediatric-neuropsychology",
+      "title": "Pediatric Neuropsychology — AACN",
+      "accessed": "2026-09-02",
+      "quotes": [
+        {
+          "text": "Neuropsychological evaluations can help answer questions about a child’s thinking or behavior at home or school and provide recommendations to improve the child’s functioning.",
+          "added": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://site.cfp.org.br/nova-resolucao-do-cfp-destaca-diretrizes-para-a-avaliacao-psicologica",
+      "title": "Diretrizes para Avaliação Psicológica — CFP",
+      "accessed": "2026-09-02",
+      "quotes": [
+        {
+          "text": "A Avaliação Psicológica, destaca a normativa, é um processo estruturado de investigação de fenômenos psicológicos para prover informações à tomada de decisão (no âmbito individual, grupal ou institucional) com base em demandas, condições e finalidades específicas.",
+          "added": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://satepsi.cfp.org.br/faq.cfm",
+      "title": "Perguntas Frequentes — SATEPSI/CFP",
+      "accessed": "2026-09-02",
+      "quotes": [
+        {
+          "text": "É responsabilidade da(o) psicóloga(o) fazer a escolha do teste mais adequado ao contexto da avaliação e a população que se está avaliando.",
+          "added": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://www.apa.org/ed/graduate/specialize/neuropsychology",
+      "title": "Clinical Neuropsychology — APA",
+      "accessed": "2026-09-02",
+      "quotes": [
+        {
+          "text": "Clinical Neuropsychology serves people across the entire age and developmental span whenever there are concerns about brain function.",
+          "added": "2026-09-02"
+        }
+      ]
+    }
+  ]
+}
