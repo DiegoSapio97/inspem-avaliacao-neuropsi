@@ -17,11 +17,11 @@ export const photos = {
     height: 1400,
   },
   equipe: {
-    src: "/assets/equipe-inspem_7eb2d3c6.webp",
+    src: "/assets/equipe-inspem_72d52d2e.webp",
     alt: "Equipe da INSPEM: supervisoras e estagiários no consultório, no Bom Fim",
     caption: "A equipe da INSPEM no consultório, Bom Fim — Porto Alegre",
-    width: 1600,
-    height: 1300,
+    width: 1391,
+    height: 1131,
   },
   simone: {
     src: "/assets/supervisora-simone_059072ac.webp",
